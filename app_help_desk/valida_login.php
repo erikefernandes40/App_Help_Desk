@@ -9,10 +9,10 @@
     $perfis = array(1 => 'Administrativo', 2 => 'Usuario');
 
     $usuarios_app = array(
-        array('id' => 1, 'email' => 'adm@teste.com.br', 'senha' => '1234', 'perfil_id' => 1),
-        array('id' => 2, 'email' => 'user@teste.com.br', 'senha' => '1234', 'perfil_id' => 1),
-        array('id' => 3, 'email' => 'jose@teste.com.br', 'senha' => '1234', 'perfil_id' => 2),
-        array('id' => 4, 'email' => 'maria@teste.com.br', 'senha' => '1234', 'perfil_id' => 2),
+        array('id' => 1, 'email' => 'admin', 'senha' => 'admin', 'perfil_id' => 1),
+        array('id' => 2, 'email' => 'admin1', 'senha' => 'admin1', 'perfil_id' => 1),
+        array('id' => 3, 'email' => 'admin2', 'senha' => 'admin2', 'perfil_id' => 2),
+        array('id' => 4, 'email' => 'admin3', 'senha' => 'admin3', 'perfil_id' => 2),
 
     );
 
